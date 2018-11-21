@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TRAINEE</string>
+    <string name="estagiario">TRAINEE - ESTAGIÁRIO</string>
+    <string name="empregador">TRAINEE - EMPREGADOR</string>
+</resources>
